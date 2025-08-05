@@ -1,15 +1,33 @@
 👋 Olá, eu sou o Davi Moreira!
+### Olá! Eu sou o Davi 👋
 
-🎓 Estudante de **Gestão de TI** na Anhembi Morumbi (5º semestre).  
-💡 Buscando oportunidades para aplicar meus conhecimentos na prática.  
-📊 Explorando **SQL e Python** para análise de dados.  
-💻 Aprendendo sobre **infraestrutura de TI, desenvolvimento web e governança de TI**.  
-🚀 Apaixonado por tecnologia e inovação, sempre buscando evoluir!  
+🎓 Estudante de **Gestão da Tecnologia da Informação** na Universidade Anhembi Morumbi  
+💻 Focado em desenvolvimento **Back-End com Java**  
+📚 Estudando: Java, Spring Boot, SQL (MySQL), Infraestrutura de TI e Python  
+🌱 Atualmente aprendendo também: JavaScript, HTML, CSS e Git  
+🌐 Melhorando meu inglês com foco em oportunidades na área de tecnologia  
+🧾 Experiência na área administrativa (hotelaria), com rotinas financeiras e organização de arquivos  
 
-## 🔧 **Tecnologias e Ferramentas**  
-📌 **Banco de Dados:** SQL (MySQL)  
-📌 **Linguagens:** Python,JavaScript, HTML, CSS  
-📌 **Infraestrutura:** Redes, governança de TI  
+---
 
-## 📫 **Conecte-se comigo!**  
-🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil/)  
+### ⚙️ Tecnologias e Ferramentas
+
+- 💻 Java, Spring Boot, Python, JavaScript (básico)
+- 🗃️ MySQL, SQL
+- 🔧 Git, GitHub, VS Code
+- 📊 Excel (básico), Power BI (em estudo)
+- 🌐 HTML, CSS
+
+---
+
+### 🚀 Em busca de:
+
+- Estágio ou oportunidade júnior na área de **Desenvolvimento Back-End**
+- Projetos colaborativos para aplicar meus conhecimentos e aprender com outros devs
+
+---
+
+### 📫 Como me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/seu-usuario-linkedin)
+- Email: seuemail@email.com
